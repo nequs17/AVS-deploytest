@@ -4,7 +4,7 @@ package main
 #include <stdio.h>
 
 void hello() {
-    printf("Hello, World!\n");
+    printf("Hello, World from Jenkins\n");
 }
 */
 import "C"
